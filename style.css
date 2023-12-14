@@ -1,0 +1,189 @@
+.logo
+{
+    width:150px;
+    height:150px;
+}
+.Max
+{
+    width:50%;
+    height: 1000px;
+    float: left;
+    background-color: maroon;
+}
+.Submission
+{
+    color: white;
+    font-size: 80px;
+    margin-top: 280px;
+    padding-left: 90px;
+}
+.text
+{
+    font-size: 18px;
+    padding-left: 80px;
+    margin-top: -40px;
+}
+.input
+{
+    margin-left: 490px;
+}
+.h1
+{
+    padding-left: 90px;
+    font-size: 30px;
+}
+.h2
+{
+    margin-left:430px;
+}
+.static
+{
+    width:50%;
+    height:1000px;
+    background-color: maroon;
+    float:right;
+}
+.type
+{
+    width: 420px;
+    height: 50px;
+    border-color: white;
+    background-color: maroon;
+    color: white;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+.Email
+{
+    width:420px;
+    height:50px;
+    border-color: white;
+    background-color: maroon;
+    color: white; 
+    padding-left:20px;
+    margin-top: 20px;
+}
+.value
+{
+    width: 420px;
+    height: 50px;
+    border-color: white;
+    background-color:maroon;
+    color: white;
+    padding-left: 20px;
+    margin-top: 20px;
+}
+.prove
+{
+    color: white;
+    font-size: 14px;
+}
+.Best
+{
+    color: white;
+}
+.min
+{
+    margin-left: 150px;
+}
+.for
+{
+    width:420px;
+    height: 50px;
+    border-color:white;
+    background-color:maroon;
+    color: white;
+    margin-top: 20px;
+    padding-left:20px;
+}
+.Tour
+{
+    color:white;
+    padding-left:10px;
+}
+.my
+{
+    margin-left: 110px;
+}
+.top
+{
+    width:420px;
+    height: 50px;
+    border-color: white;
+    background-color: maroon;
+    color: white; 
+    margin-top:20px;
+    padding-left:20px;
+}
+.Sponsor
+{
+    color: white;
+    padding-left: 10px;
+}
+.level
+{
+    margin-left: 90px;
+}
+.Activate
+{
+    width:420px;
+    height: 50px;
+    border-color: white;
+    background-color:maroon;
+    color: white;
+    margin-top: 20px;
+    padding-left:20px;
+}
+.use
+{
+    color: white;
+    padding-left: 10px;
+}
+.checkbox
+{
+    margin-left:90px;
+}
+.words
+{
+    width:420px;
+    height: 50px;
+    border-color: white;
+    background-color: maroon;
+    color: white;
+    margin-top:20px;
+    padding-left:20px;
+}
+.Campaign
+{
+    color: white;
+    padding-left: 10px;
+}
+.icon
+{
+    margin-left: 100px;
+}
+.successful
+{
+    width:420px;
+    height: 50px;
+    border-color: white;
+    background-color: maroon;
+    color:white;
+    margin-top: 20px;
+    padding-left:20px;
+}
+.button
+{
+    width:420px;
+    height: 50px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+.awards
+{
+    width: 150px;
+    height: 150px;
+    float: right;
+    margin-top: 40px;
+}
+
